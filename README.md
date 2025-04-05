@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Luis Fernando Bianconi</h1>
-<h3 align="center">Driven by code, secured by design — An Italo-Brazilian DevSecOps/SRE Engineer</h3>
+<h3 align="center">Driven by code, secured by design — an Italo-Brazilian DevSecOps/SRE Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisbianconi&label=Profile%20views&color=0e75b6&style=flat" alt="luisbianconi" /> </p>
 
-- 📫 Reach me by e-mail - **luis.bianconi@gmail.com**
+- 📫 Reach me by email at - **luis.bianconi@gmail.com**
 
-- 📄 Know more about me in my website - https://luisbianconi.com/
+- 📄 Know more about me at my website - https://luisbianconi.com/
 
 - ⚡ Fun fact - **I have already resurrected a dead magnetic disk (for a time) by punching it.**
 
