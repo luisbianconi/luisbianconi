@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisbianconi&label=Profile%20views&color=0e75b6&style=flat" alt="luisbianconi" /> </p>
 
-- 📫 Reach me by e-mail **luis.bianconi@gmail.com**
+- 📫 Reach me by e-mail - **luis.bianconi@gmail.com**
 
-- 📄 Know more about me in my website [luisbianconi.com](luisbianconi.com)
+- 📄 Know more about me in my website - [luisbianconi.com](luisbianconi.com)
 
-- ⚡ Fun fact : **I have already resurrected a dead magnetic disk (for a time) by punching it.**
+- ⚡ Fun fact - **I have already resurrected a dead magnetic disk (for a time) by punching it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
