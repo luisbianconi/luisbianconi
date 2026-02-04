@@ -5,9 +5,9 @@
 
 - 📫 Reach me by email at - **luis.bianconi@gmail.com**
 
-- 📄 Know more about me at my website - https://luisbianconi.com/
+- 📄 Know more about me at my website - https://luisbianconi.tech/
 
-- ⚡ Fun fact - **I have already resurrected a dead magnetic disk (for a time) by punching it.**
+- ⚡ Fun fact - **I have already resurrected a dead magnetic disk (for the time needed to recover important files) by punching it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
