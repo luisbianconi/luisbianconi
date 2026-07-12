@@ -3,7 +3,7 @@
 
 <!-- PROFILE-TRAFFIC:START -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luisbianconi-week-2026-07-05&label=This%20week&color=0e75b6&style=flat" alt="Profile views this week" />
+  <img src="https://komarev.com/ghpvc/?username=luisbianconi-week-2026-07-12&label=This%20week&color=0e75b6&style=flat" alt="Profile views this week" />
   <img src="https://komarev.com/ghpvc/?username=luisbianconi&label=Total%20views&color=0e75b6&style=flat" alt="Total profile views" />
 </p>
 <!-- PROFILE-TRAFFIC:END -->
